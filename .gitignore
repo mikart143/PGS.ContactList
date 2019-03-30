@@ -259,3 +259,6 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/PGS.ContactList/Contacts.db
+/PGS.ContactList/wwwroot/upload/JJ594imZLUTOzTj9H6OWA==.png
+/PGS.ContactList/wwwroot/upload/uQm24oqliCDabVLIMDrQ5w==.jpg
